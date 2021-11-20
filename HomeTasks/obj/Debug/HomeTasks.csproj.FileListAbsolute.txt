@@ -1,0 +1,6 @@
+H:\C#_Training\HomeTasks\HomeTasks\bin\Debug\HomeTasks.exe.config
+H:\C#_Training\HomeTasks\HomeTasks\bin\Debug\HomeTasks.exe
+H:\C#_Training\HomeTasks\HomeTasks\bin\Debug\HomeTasks.pdb
+H:\C#_Training\HomeTasks\HomeTasks\obj\Debug\HomeTasks.csprojResolveAssemblyReference.cache
+H:\C#_Training\HomeTasks\HomeTasks\obj\Debug\HomeTasks.exe
+H:\C#_Training\HomeTasks\HomeTasks\obj\Debug\HomeTasks.pdb
